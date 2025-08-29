@@ -1,2 +1,2 @@
-# Quan ly ban hang
-Dự án nhỏ quản lý bán hàng bằng C# dùng entity framework core.
+# Quan ly ban giay the thao
+Dự án nhỏ quản lý bán giày thể thao bằng C# dùng entity framework core.
